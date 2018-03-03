@@ -1,5 +1,7 @@
 # 机器学习工作流程
-梁彧 liangyuastro@gmail.com
+Dr. Liang
+
+<!-- liangyuastro@gmail.com -->
 
 <!-- ## 目录 -->
 
